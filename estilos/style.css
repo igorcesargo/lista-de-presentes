@@ -16,6 +16,10 @@ header {
     align-items: center;
     margin-top: 20px;
 }
+#endereco {
+    text-align: left;
+    margin-left: 15px;
+}
 
 .present-group {
     margin-top: 30px;
@@ -27,7 +31,7 @@ header {
     padding: 10px;
     border-radius: 8px;
     transition: box-shadow 0.3s;
-    width: 200px;
+    width: 300px;
     margin-bottom: 20px;
 }
 
